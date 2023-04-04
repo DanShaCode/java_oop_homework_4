@@ -32,16 +32,5 @@ public class Application {
         System.out.print("Символьное представление числа: ");
         List<Object> iNumber4 = new ArrayList<>(Arrays.asList('4','9'));
         System.out.println(calculator.digitBinary(iNumber4));
-
-
-
-
-
-
-
-
-
-
-
     }
 }
